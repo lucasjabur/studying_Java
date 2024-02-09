@@ -1,6 +1,12 @@
-public class Triangle {
-    
-  private double firstSide, secondSide, thirdSide, perimeter;
+public class FrthExercise {
+
+  private double firstSide, secondSide, thirdSide;
+
+  public FrthExercise(double firstSide, double secondSide, double thirdSide){
+    this.firstSide = firstSide;
+    this.secondSide = secondSide;
+    this.thirdSide = thirdSide;
+  }
 
   public void setFirstSide(double firstSide){
     if (firstSide <= 0)
@@ -42,7 +48,7 @@ public class Triangle {
   }
 
   public double perTriangle(){
-    perimeter = firstSide + secondSide + thirdSide;
+    double perimeter = firstSide + secondSide + thirdSide;
     return perimeter;
   }
 

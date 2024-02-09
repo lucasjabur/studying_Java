@@ -1,29 +1,29 @@
 public class App {
   public static void main(String[] args){
 
-    // Teste da classe Triangle:
+    // Testing Triangle class:
 
     /*
 
     Triangle t1 = new Triangle();
 
-    t1.setLado1(3);
-    t1.setLado2(5);
-    t1.setLado3(4);
+    t1.setFirstSide(3);
+    t1.setSecondSide(5);
+    t1.setThirdSide(4);
 
     boolean exist = t1.existTriangle();
     System.out.println(exist);
-    System.out.println("Lado1: "+t1.getLado1());
-    System.out.println("Lado2: "+t1.getLado2());
-    System.out.println("Lado3: "+t1.getLado3());
+    System.out.println("First side: "+t1.getFirstSide());
+    System.out.println("Second side: "+t1.getSecondSide());
+    System.out.println("Third side: "+t1.getThirdSide());
 
     double perimeter = t1.perTriangle();
-    System.out.println("Perimetro: "+perimeter);
+    System.out.println("Perimeter: "+perimeter);
 
     */
 
 
-    // Teste da classe Dot:
+    // Testing Dot class:
 
     /*
     
@@ -42,7 +42,7 @@ public class App {
     */
 
 
-    // Teste da classe Circle:
+    // Testing Circle class:
 
     /* 
     
