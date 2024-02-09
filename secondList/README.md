@@ -1,8 +1,24 @@
 # The classes:
 
-## class.java
+## FstExercise.java
 
-- 
+- Class with hour, minutes and seconds as it's attributes with implementation of constructors to create differente instances.
+It validates the information given to the class.
+
+## SndExercise.java
+
+- The same class as Dot.java from the "firstList" exercises, but with the implementation of constructors, the first one
+initiates the class with the coordinates of the first dot, and the second one initiates them with zero as its values.
+
+## ThdExercise.java
+
+- Class given by the professor for us to implement two types of constructors: the first one initiate the class with all the
+attributes and the second one initiate the class with the balance equals to zero.
+
+## FrthExercise.java
+
+- The same class as Triangle.java from the "firsList" exercises, but with the implementation of a constructor that initiates
+the triangle's sides.
 
 ### _______________________________________________________________________________________________________________________
 
