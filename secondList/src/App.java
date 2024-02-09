@@ -21,5 +21,11 @@ public class App {
         
         // System.out.println(t1.calcDistance(t2));
 
+        ThdExercise account1 = new ThdExercise("Lucas Jabur", 1111, 123456789, "special");
+        ThdExercise account2 = new ThdExercise("Lucas Cardoso", 12312, 123654987, 100000 ,"special");
+        account1.showData();
+        System.out.println();
+        account2.showData();
+
     }
 }
