@@ -16,6 +16,10 @@ tell the user if the triangle created is scalene, isoceles or equilateral.
 
 - Class that calculates the distance between two dots.
 
+# The goal:
+
+The goal of this set of exercises is to learn the basics of Java and the OOP paradigm. It's just the beggining!
+
 ### _______________________________________________________________________________________________________________________
 
 _Documentation will be added in the future_

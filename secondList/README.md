@@ -20,6 +20,11 @@ attributes and the second one initiate the class with the balance equals to zero
 - The same class as Triangle.java from the "firsList" exercises, but with the implementation of a constructor that initiates
 the triangle's sides.
 
+# The goal:
+
+The goal here is to learn how to use the Java constructors, what they are used for and their importance.
+Still learning and improving! 
+
 ### _______________________________________________________________________________________________________________________
 
 _Documentation will be added in the future_
