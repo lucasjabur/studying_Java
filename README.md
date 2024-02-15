@@ -31,9 +31,8 @@ So, to run the codes, you can change the values on the classes' instances.
 
 The codes are simple and perhaps not written in the best possible way due to my limited knowledge so far.
 
-It's important to say that I don't intend to improve the codes once they've been posted, as I'd like to make the defects of
-the first codes explicit so that it's possible to make a better comparison with the latest codes in order to show my evolution
-throughout the course and over time.
+It's important to say that I intend to improve the codes posted, so I can upgrade them and see how I could do them in a
+differente way, comparing each solution with a better version.
 
 ## Links
 
