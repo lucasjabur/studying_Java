@@ -25,7 +25,7 @@ Instead I just used App.java class to create new instances of the classes listed
 
 So, to run the codes, you can change the values on the classes' instances.
 
--- but I'll change this in the future if convenient --
+-- _but I'll change this in the future if convenient_ --
 
 ## Remember
 
